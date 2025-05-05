@@ -1,10 +1,10 @@
 # NASA-project
 
-## Skills Performed
+## SKILLS PERFORMED
 ### SQL(Structured Query Language)
 ### PYTHON
 
-## Platform Worked 
+## PLATFORM WORKED
 ### Jupyter Notebook
 ### VS code
 
